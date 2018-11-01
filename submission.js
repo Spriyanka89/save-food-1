@@ -17,24 +17,23 @@ var image15;
 var screen=0;
 
 function preload() {
-  image1 = loadImage("Image/1.png ");
-  image2 = loadImage("Image/2.png");
-  image3 = loadImage("Image/3.png");
-  image4 = loadImage("Image/4_1.png");
-  image5 = loadImage("Image/5.png");
-  image6 = loadImage("Image/6.png");
-  image7 = loadImage("Image/7.png");
-  image8 = loadImage("Image/7_2.png");
-  image9 = loadImage("Image/8_2.png");
-  image10 = loadImage("Image/8.2.1.png");
-    image11 = loadImage("Image/8.2.2.png");
+  image1 = loadImage("1.png ");
+  image2 = loadImage("2.png");
+  image3 = loadImage("3.png");
+  image4 = loadImage("4_1.png");
+  image5 = loadImage("5.png");
+  image6 = loadImage("6.png");
+  image7 = loadImage("7.png");
+  image8 = loadImage("7_2.png");
+  image9 = loadImage("8_2.png");
+  image10 = loadImage("8.2.1.png");
+    image11 = loadImage("8.2.2.png");
+    image12 = loadImage("8.2.3.png");
 
-    image12 = loadImage("Image/8.2.3.png");
+  image13 = loadImage("9.png");
+image14 = loadImage("13.png");
 
-  image13 = loadImage("Image/9.png");
-image14 = loadImage("Image/13.png");
-
-image15 = loadImage("Image/12.png");
+image15 = loadImage("12.png");
 }
 
 function setup() {
